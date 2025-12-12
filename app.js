@@ -1,4 +1,3 @@
-// Hello world
 // Question no 1
 // let first_Name = prompt("Enter your First name here :")
 // let last_Name = prompt("Enter your Last name here :")
